@@ -1,0 +1,126 @@
+{
+    "music.mcme": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "MCME/music/Aldburg",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Amon Hen",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Annuminas",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Bree",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Deeping Wall",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Doors of Durin",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Dwarrowdelf",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Edoras",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Fornost",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Great River",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Green Dragon",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Helms Deep Keep",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Hobbiton",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Isengard",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Lond Daer",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Lothlorien",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Michel Delving",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Ost-in-Edhil",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Party Tree Loop",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Prancing Pony",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Rivendell",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Tharbad",
+                "stream": true
+            },
+            {
+                "name": "MCME/music/Weathertop",
+                "stream": true
+            }
+        ]
+    },
+    "music.game": {
+        "category": "music",
+        "sounds": [
+            {
+                "type": "event",
+                "name": "music.mcme"
+            }
+        ]
+    },
+    "music.game.creative": {
+        "category": "music",
+        "sounds": [
+            {
+                "type": "event",
+                "name": "music.mcme"
+            }
+        ]
+    },
+    "music.menu": {
+        "category": "music",
+        "sounds": [
+            {
+                "type": "event",
+                "name": "music.mcme"
+            }
+        ]
+    }
+}
