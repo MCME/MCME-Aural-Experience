@@ -1,4 +1,5 @@
 # RP-Sound
+![GitHub size](https://img.shields.io/github/repo-size/MCME/RP-Sound)
 The official repository for MCME's Sound pack.
 Created by members of the Minecraft Middle-Earth community.
 
